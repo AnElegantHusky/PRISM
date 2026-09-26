@@ -1,0 +1,8 @@
+numpy<2
+numba
+openai
+pytz
+matplotlib
+scikit-learn
+tqdm
+elkai
